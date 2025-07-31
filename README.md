@@ -65,7 +65,7 @@ Currently pursuing B.Tech in **IoT and Cyber Security** from **KIIT, Bhubaneswar
 ## 💻 Competitive Programming
 
 ### 🔥 LeetCode Stats  
-<a href="https://leetcode.com/u/Bhumi2112/">
+<a href="https://leetcode.com/u/Bhumisys//">
   <img src="https://leetcard.jacoblin.cool/Bhumi2112?theme=dark&ext=heatmap&ext=contest&ext=activity" alt="LeetCode Stats" width="420"/>
 </a>
 
